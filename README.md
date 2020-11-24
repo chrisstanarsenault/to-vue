@@ -1,24 +1,3 @@
-# vue-todo
+# ToVue App
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Simple little TODO app built with Vue, and using a little bit of Bootstrap and SCSS.  User has ability to create new tasks, as well as edit existing task and delete them.  Will add more onto this.

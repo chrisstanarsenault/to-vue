@@ -1,0 +1,16 @@
+div.full-container {
+  background-color: #C1FFF2;
+  border: 1px solid black;
+  padding: .75rem;
+
+  & hr {
+    width: 75%;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  & .toDoList-container {
+    border: 1px solid black;
+  }
+}
+

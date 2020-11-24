@@ -1,0 +1,14 @@
+div.item-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  border: 1px solid blue;
+
+  & .completed {
+    text-decoration: line-through;
+  }
+
+  & button {
+    margin-left: 5px;
+  }
+}
