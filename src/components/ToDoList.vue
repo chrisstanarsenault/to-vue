@@ -30,18 +30,7 @@ export default {
   data() {
     return {
       name: "ToDoList",
-      todoItems: [
-        {
-          task: "wipe my butthole",
-          isDone: false,
-          id: this.getRandomID(),
-        },
-        {
-          task: "eat shit taco",
-          isDone: false,
-          id: this.getRandomID(),
-        },
-      ],
+      todoItems: [],
       isEditting: false,
       currentIdForEditting: "",
     };
